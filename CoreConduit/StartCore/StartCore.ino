@@ -3,9 +3,11 @@
 #include <I2C_Anything.h>
 #include <Time.h>
 #include <commons.h>
+#include <Clock.h>
 #include <TheTimeMan.h>
 // replaced DS1307 library in TheTimeMan.h
 #include <SPI.h>
+#include <DataObject.h>
 #include <CoreConduit.h>
 #include <RCSwitch.h>
 
